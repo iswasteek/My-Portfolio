@@ -1,0 +1,647 @@
+@media only screen and (max-width: 1499px) {
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+  #bar-line {
+    display: none;
+  }
+}
+
+/* Extra Large Devices */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .my-header-area .header-button {
+    margin-left: 35px;
+  }
+  .my-header-area .header-menu ul {
+    gap: 30px;
+  }
+  .my-header-area .header-menu ul li a {
+    padding: 25px 0px;
+  }
+
+  #bar-line {
+    display: none;
+  }
+
+  /* hero section */
+  .hero-title {
+    font-size: 60px;
+  }
+
+  /* resume section */
+  .resume-widget .resume-item .resume-title {
+    font-size: 23px;
+  }
+
+  /* skills */
+  .skills-widget .skill-item {
+    max-width: 165px;
+  }
+  .skills-widget .skill-inner {
+    padding: 30px 15px 25px;
+  }
+}
+
+/* Large Devices */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .services-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .my-header-area {
+    padding: 0 0 50px;
+  }
+  .my-header-area .logo-box {
+    margin-right: 15px;
+  }
+  .my-header-area .header-button {
+    margin-left: 20px;
+  }
+  .my-header-area .header-menu ul {
+    gap: 20px;
+  }
+  .my-header-area .header-menu ul li a {
+    padding: 25px 0px;
+  }
+  .my-header-area .header-info-list ul li {
+    margin-right: 0px;
+  }
+  #bar-line {
+    display: none;
+  }
+
+  /* hero section */
+  .hero-section {
+    padding: 160px 0 50px;
+  }
+  .hero-sub-title {
+    margin-bottom: 0;
+  }
+  .hero-wrrapper .hero-title,
+  .hero-title {
+    font-size: 50px;
+  }
+
+  /* popup */
+  .popup_content_area {
+    max-width: 900px;
+  }
+
+  /* portfolio */
+  .portfolio-section {
+    padding-top: 100px;
+    padding-bottom: 60px;
+  }
+
+  /* resume section */
+  .resume-section {
+    padding-top: 100px;
+    padding-bottom: 70px;
+  }
+  .section-header .section-title {
+    font-size: 40pmy
+  }
+  .resume-section .resume-item {
+    margin-right: 0;
+  }
+  .resume-widget .resume-item .resume-title {
+    font-size: 23px;
+  }
+
+  /* skills */
+  .skills-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .skills-widget .skill-item {
+    max-width: 165px;
+  }
+  .skills-widget .skill-inner {
+    padding: 30px 15px 25px;
+  }
+
+  /* contact section */
+  .contact-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .contact-form-box {
+    padding: 40px 30px;
+  }
+}
+
+/* Tablet Devices */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  h3 {
+    font-size: 25px;
+  }
+  h4 {
+    font-size: 22px;
+  }
+  h5 {
+    font-size: 20px;
+  }
+  h6 {
+    font-size: 16px;
+  }
+  .services-section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .section-header .section-title {
+    font-size: 35px;
+  }
+  .my-header-area {
+    padding: 20px 0 15px;
+  }
+  .my-header-area.header-absolute .logo-box {
+    position: relative;
+    bottom: 22%;
+    right: 5%;
+  }
+  .my-header-area .header-button {
+    margin-left: auto;
+  }
+  .my-header-area.header-absolute .header-button {
+    position: relative;
+    bottom: 22%;
+  }
+
+  .absolute-bar {
+    position: absolute;
+    bottom: 60%;
+    right: 1%;
+  }
+  #headerMenu {
+    display: none;
+  }
+
+  /* hero section */
+  .hero-section {
+    padding: 130px 0 30px;
+  }
+  .hero-sub-title {
+    margin-bottom: 0;
+    font-size: 25px;
+  }
+  .hero-wrrapper .hero-title,
+  .hero-title {
+    font-size: 38px;
+  }
+  .hero-content-box .button-box {
+    margin-top: 30px;
+    gap: 30px;
+  }
+
+  /* services section */
+  .services-widget .service-item {
+    padding: 0px 15px;
+  }
+  .services-widget .service-item .left-box {
+    gap: 10px;
+  }
+  .services-widget .service-item .left-box .service-title {
+    font-size: 25px;
+  }
+  .services-widget .service-item .right-box {
+    padding: 20px 0;
+    padding-right: 5%;
+  }
+  .services-widget i {
+    right: 20px;
+  }
+
+  /* popup */
+  .popup_content_area {
+    max-width: 670px;
+  }
+  .popup_modal_img {
+    padding: 40px 25px 0 25px;
+  }
+  .popup_modal_content {
+    padding-top: 40px;
+  }
+  .service_details {
+    padding: 0 25px 10px 25px;
+  }
+  .service_details_content .service_info .title {
+    font-size: 35px;
+  }
+  .my_main_sidebar {
+    margin-top: 40px;
+    border-top: 1px solid #dddddd;
+    padding-top: 41px;
+  }
+
+  /* portfolio */
+  .portfolio-section {
+    padding-top: 80px;
+    padding-bottom: 60px;
+  }
+  .portfolio-box .portfolio-item {
+    padding: 25px 15px 0 15px;
+  }
+  .portfolio-box .content-box {
+    width: calc(100% - 30px);
+    padding: 15px 30px 15px 15px;
+  }
+}
+.portfolio-box .portfolio-item .content-box .portfolio-title {
+  font-size: 25px;
+  margin: 0;
+}
+.portfolio-box .portfolio-item .content-box i {
+  font-size: 15px;
+  right: 15px;
+}
+.popup_modal_content .portfolio_info {
+  padding: 0 25px;
+  gap: 20px;
+}
+.popup_modal_content .portfolio_info .portfolio_info_text,
+.popup_modal_content .portfolio_info .portfolio_info_items {
+  max-width: calc(50% - 10px);
+}
+.portfolio_info .portfolio_info_items {
+  column-gap: 15px;
+  row-gap: 20px;
+}
+
+.portfolio_description .title,
+.portfolio_info .portfolio_info_text .title {
+  font-size: 35px;
+}
+
+/* resume section */
+.resume-section {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.section-header .section-title {
+  font-size: 35px;
+}
+.resume-section .resume-item {
+  margin-right: 0;
+  padding: 20px 15px;
+}
+.resume-widget .resume-item .time {
+  font-size: 15px;
+}
+.resume-widget .resume-item .resume-title {
+  font-size: 20px;
+}
+
+/* works section */
+.works-section.style-2 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.works-content-item .title {
+  font-size: 30px;
+}
+
+/* skills */
+.skills-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.skills-widget .skill-item {
+  max-width: 165px;
+}
+.skills-widget .skill-inner {
+  padding: 30px 15px 25px;
+}
+
+/* contact section */
+.contact-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.contact-form-box {
+  padding: 30px 20px;
+}
+.contact-info-list li {
+  padding-left: 65px;
+}
+.contact-info-list .text-box a {
+  font-size: 18px;
+}
+
+/* breadcrumb */
+body.absolute_header .breadcrumb_area {
+  padding-top: 160px;
+}
+.breadcrumb_area {
+  padding: 80px 0;
+  min-height: 300px;
+  align-items: end;
+}
+
+.breadcrumb_content .title {
+  font-size: 40px;
+}
+
+/* Mobile Devices */
+@media only screen and (max-width: 767px) {
+  .progress-wrap {
+    right: 20px;
+    bottom: 20px;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  h5 {
+    font-size: 18px;
+  }
+  h6 {
+    font-size: 15px;
+  }
+
+  .services-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .section-header {
+    margin-bottom: 40px;
+  }
+  .section-header .section-title {
+    font-size: 30px;
+  }
+
+  .my-header-area {
+    padding: 20px 0 15px;
+  }
+
+  .my-header-area.header-absolute .logo-box {
+    position: relative;
+    bottom: 24%;
+    right: 10%;
+  }
+  .my-header-area .header-button {
+    margin-left: auto;
+  }
+  .my-header-area.header-absolute .header-button {
+    position: absolute;
+    bottom: 57%;
+    right: 13%;
+  }
+
+  .absolute-bar {
+    position: absolute;
+    bottom: 62%;
+    right: 1%;
+  }
+  #headerMenu {
+    display: none;
+  }
+  /* hero section */
+  .hero-section {
+    padding: 130px 0 40px;
+  }
+  .hero-sub-title {
+    margin-bottom: 0;
+    font-size: 22px;
+  }
+  .hero-wrrapper .hero-title,
+  .hero-title {
+    font-size: 35px;
+    margin-bottom: 0;
+  }
+  .hero-image-box {
+    margin: 30px 0;
+  }
+  .hero-image-box img {
+    max-width: 80%;
+  }
+  .hero-content-box .button-box {
+    margin-top: 20px;
+    gap: 30px;
+  }
+
+  /* services section */
+  .services-widget .service-item {
+    padding: 20px 15px;
+    gap: 15px;
+    transition: all 0.5s ease;
+  }
+  .services-widget .service-item .left-box {
+    width: 100%;
+    gap: 10px;
+    padding: 0 25px 0 0;
+  }
+  .services-widget .service-item .left-box .service-title {
+    font-size: 20px;
+  }
+  .services-widget .service-item .right-box {
+    width: 100%;
+    padding: 0;
+  }
+  .services-widget i {
+    right: 20px;
+    top: 20%;
+    font-size: 15px;
+  }
+  .services-widget .active-bg {
+    display: none;
+  }
+  .services-widget .service-item.current {
+    background: linear-gradient(260deg, #2a1454 0%, #8750f7 100%);
+  }
+
+  /* popup */
+  .popup_content_area {
+    max-width: 330px;
+  }
+  .popup_modal_img {
+    padding: 30px 15px 0 15px;
+  }
+  .popup_content_area .mfp-close {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    right: -15px;
+    top: -15px;
+  }
+  .popup_modal_content {
+    padding-top: 30px;
+  }
+  .service_details {
+    padding: 0 15px 30px 15px;
+  }
+  .service_details_content .service_info .title {
+    font-size: 30px;
+  }
+  .my_main_sidebar {
+    margin-top: 40px;
+    border-top: 1px solid #dddddd;
+    padding-top: 41px;
+  }
+  .my_main_sidebar .sidebar_widget {
+    padding: 30px 15px;
+  }
+  .sidebar_widget .widget_title .title {
+    font-size: 18px;
+  }
+
+  /* portfolio */
+  .portfolio-section {
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+
+  .portfolio-box {
+    padding-top: 40px;
+  }
+  .portfolio-box .portfolio-sizer {
+    width: 100%;
+  }
+  .portfolio-box .portfolio-item {
+    width: 100%;
+    padding: 25px 15px 0 15px;
+    margin-bottom: 30px;
+  }
+  .portfolio-box .content-box {
+    width: calc(100% - 30px);
+    padding: 15px 30px 15px 15px;
+  }
+  .portfolio-box .portfolio-item .content-box .portfolio-title {
+    font-size: 25px;
+    margin: 0;
+  }
+  .portfolio-box .portfolio-item .content-box i {
+    font-size: 15px;
+    right: 15px;
+  }
+  .popup_modal_content .portfolio_info {
+    padding: 0 15px;
+    gap: 30px;
+  }
+  .popup_modal_content .portfolio_info .portfolio_info_text,
+  .popup_modal_content .portfolio_info .portfolio_info_items {
+    max-width: 100%;
+  }
+  .portfolio_info .portfolio_info_items {
+    column-gap: 15px;
+    row-gap: 20px;
+  }
+
+  .portfolio_description .title,
+  .portfolio_info .portfolio_info_text .title {
+    font-size: 30px;
+  }
+
+  /* resume section */
+  .resume-section {
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .resume-section .col-md-6:last-child .section-header {
+    margin-top: 30px;
+  }
+  .resume-section .resume-item {
+    margin-right: 0;
+    padding: 20px 15px;
+  }
+  .resume-widget .resume-item .time {
+    font-size: 15px;
+  }
+  .resume-widget .resume-item .resume-title {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+
+  /* About work section  */
+
+  .works-section.style-2 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .works-section.style-2 .works-wrapper {
+    flex-direction: column;
+  }
+  .works-content-item .title {
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+  .works-inner .works-item .works-content .title {
+    font-size: 16px;
+  }
+  .works-inner .works-item {
+    gap: 15px;
+    padding-left: 25px;
+  }
+  .works-inner .works-item .works-content .number {
+    font-size: 16px;
+  }
+
+  /* skills */
+  .skills-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .skills-widget .skill-item {
+    max-width: 165px;
+  }
+  .skills-widget .skill-inner {
+    padding: 25px 15px 25px;
+  }
+  .skills-widget .skill-item .icon-box {
+    margin: 0 auto 20px;
+  }
+
+  /* contact section */
+  .contact-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .contact-form-box {
+    padding: 30px 15px;
+    margin-top: 50px;
+  }
+  .contact-info-list li {
+    padding-left: 65px;
+  }
+  .contact-info-list .text-box a {
+    font-size: 18px;
+  }
+
+  /* footer */
+  .my-footer-area {
+    padding: 60px 0 20px;
+  }
+  .footer-menu ul {
+    margin: 0 0 25px;
+    gap: 10px 15px;
+  }
+  .copy-text p {
+    font-size: 14px;
+  }
+
+  /* breadcrumb */
+  body.absolute_header .breadcrumb_area {
+    padding-top: 150px;
+  }
+  .breadcrumb_area {
+    padding: 60px 0;
+    min-height: 250px;
+    align-items: end;
+  }
+
+  .breadcrumb_content .title {
+    font-size: 35px;
+  }
+}
