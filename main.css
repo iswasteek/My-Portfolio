@@ -214,6 +214,13 @@ a h6:hover {
   margin-bottom: 0;
 }
 
+.btn-close {
+  background-color: white;
+  position: absolute;
+  top: 1%;
+  right: 2%;
+}
+
 /* End starting css  */
 
 /* start Header  */
